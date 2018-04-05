@@ -10,10 +10,10 @@ int my_strlen(char *s)
    return (p - s);
 }
 
-int main(void)
+void main(void)
 {
    int i;
-   char *s[] = 
+   char *s[] =
    {
       "Git Test"
    };

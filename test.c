@@ -10,12 +10,12 @@ int my_strlen(char *s)
    return (p - s);
 }
 
-void main(void)
+int main(void)
 {
    int i;
    char *s[] =
    {
-      "Git Test"
+      "Git Test","Hello Git"
    };
 
    for (i = 0; i < 2; ++i)

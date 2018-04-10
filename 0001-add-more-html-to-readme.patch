@@ -1,0 +1,21 @@
+From 62905ebd8015a4c795871d770708589765724af5 Mon Sep 17 00:00:00 2001
+From: Wessam Elhefnawy <welhefna@cs.odu.edu>
+Date: Thu, 5 Apr 2018 18:22:45 -0400
+Subject: [PATCH] add more html to readme
+
+---
+ readme.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/readme.md b/readme.md
+index 3f14b70..57fae27 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1 +1,4 @@
+ <h1>Git Life Cycle Test</h1> 
++<div>
++This repository is just for testing the functionality of git with github 
++</div>
+-- 
+2.14.1.windows.1
+
